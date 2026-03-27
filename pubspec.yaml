@@ -1,7 +1,6 @@
-name: bgmi_panipat_app
-description: BGMI Tournament App
+name: bgmi_pro_app
+description: BGMI Tournament Pro App
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -10,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
 
 flutter:
   uses-material-design: true
